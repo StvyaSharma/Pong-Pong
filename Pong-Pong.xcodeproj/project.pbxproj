@@ -16,6 +16,7 @@
 		5DE35D042630564C0044A122 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DE35D032630564C0044A122 /* Assets.xcassets */; };
 		5DE35D0F2630564C0044A122 /* Pong_PongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE35D0E2630564C0044A122 /* Pong_PongTests.swift */; };
 		5DE35D1A2630564C0044A122 /* Pong_PongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE35D192630564C0044A122 /* Pong_PongUITests.swift */; };
+		5DE35D2D2630574A0044A122 /* Pong-Backtrack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5DE35D2C2630574A0044A122 /* Pong-Backtrack.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,9 @@
 		5DE35D152630564C0044A122 /* Pong-PongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pong-PongUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE35D192630564C0044A122 /* Pong_PongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pong_PongUITests.swift; sourceTree = "<group>"; };
 		5DE35D1B2630564C0044A122 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DE35D2A2630571E0044A122 /* Pong Beep.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pong Beep.m4a"; sourceTree = "<group>"; };
+		5DE35D2B263057340044A122 /* Pong Boop.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pong Boop.m4a"; sourceTree = "<group>"; };
+		5DE35D2C2630574A0044A122 /* Pong-Backtrack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pong-Backtrack.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +110,10 @@
 				5DE35CFA2630564B0044A122 /* Actions.sks */,
 				5DE35CFC2630564B0044A122 /* GameScene.swift */,
 				5DE35CFE2630564B0044A122 /* GameViewController.swift */,
+				5DE35D2A2630571E0044A122 /* Pong Beep.m4a */,
 				5DE35D002630564B0044A122 /* Main.storyboard */,
+				5DE35D2C2630574A0044A122 /* Pong-Backtrack.mp3 */,
+				5DE35D2B263057340044A122 /* Pong Boop.m4a */,
 				5DE35D032630564C0044A122 /* Assets.xcassets */,
 				5DE35D052630564C0044A122 /* Info.plist */,
 			);
@@ -235,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DE35D022630564B0044A122 /* Main.storyboard in Resources */,
+				5DE35D2D2630574A0044A122 /* Pong-Backtrack.mp3 in Resources */,
 				5DE35CF92630564B0044A122 /* GameScene.sks in Resources */,
 				5DE35D042630564C0044A122 /* Assets.xcassets in Resources */,
 				5DE35CFB2630564B0044A122 /* Actions.sks in Resources */,
